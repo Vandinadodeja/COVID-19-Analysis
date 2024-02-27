@@ -6,3 +6,4 @@ b) Cleaning and preparation of data to standard format in order to be ready for 
 c) Analysis and Visualization of data to find useful insight and trend from the data.
 
 d) Summary report or documentation to communicate the inferences
+Based on the analysis and series of inferences above from various data provided, we can infer that the COVID-19 pandemic has a great effect on the economy of Nigeria and lives of many citizens of the country during the prevalence period of the virus. It is noteworthy the leaders of the country must try as much as possible to combat this pandemic cause in terms of health and economic mitigations.
